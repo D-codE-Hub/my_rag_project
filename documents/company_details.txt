@@ -1,0 +1,36 @@
+DSNK Technologies - Company Overview
+
+Company Name: DSNK Technologies Pvt. Ltd.
+Founded: 2018
+Headquarters: Bengaluru, Karnataka, India
+Branch Offices: Hyderabad, Pune, Dubai
+CEO: Ravi Kumar
+CTO: Anita Sharma
+Number of Employees: 250
+Website: www.dsnktech.example.com
+Support Email: support@dsnktech.example.com
+Phone: +91-80-1234-5678
+
+About Us:
+DSNK Technologies is a software services and product company specializing in
+cloud solutions, AI/ML applications, ERP implementation, and custom web and
+mobile development. We serve clients in retail, healthcare, finance, and
+manufacturing across India, the Middle East, and Europe.
+
+Mission:
+To help businesses grow through simple, reliable, and affordable technology.
+
+Vision:
+To be a trusted global technology partner by 2030.
+
+Core Values:
+1. Customer First
+2. Integrity
+3. Innovation
+4. Teamwork
+5. Continuous Learning
+
+Business Hours:
+Monday to Friday, 9:30 AM to 6:30 PM IST. Closed on Saturdays, Sundays and public holidays.
+
+Key Clients (sample): GreenMart Retail, MediCare Hospitals, FinEdge Bank, Apex Manufacturing.

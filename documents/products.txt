@@ -1,0 +1,32 @@
+DSNK Technologies - Products and Services
+
+1. DSNK CloudERP
+- Description: Cloud-based ERP for small and medium businesses covering accounting, inventory, sales, purchase and HR.
+- Pricing: Basic INR 2,000/user/month; Professional INR 3,500/user/month; Enterprise - custom quote.
+- Free Trial: 30 days.
+
+2. DSNK SmartHR
+- Description: HR and payroll management software with attendance, leave, payroll and employee self-service portal.
+- Pricing: INR 150 per employee per month (minimum 25 employees).
+- Mobile app available on Android and iOS.
+
+3. DSNK InsightAI
+- Description: AI analytics platform providing dashboards, sales forecasting, and a chatbot that answers questions from company documents.
+- Pricing: Starter INR 15,000/month; Business INR 40,000/month.
+- Integrations: CloudERP, Google Sheets, MySQL, PostgreSQL.
+
+4. DSNK RetailPOS
+- Description: Point-of-sale system for retail stores with billing, barcode scanning, GST invoicing and inventory sync.
+- Pricing: One-time license INR 25,000 per store plus INR 5,000/year support.
+
+Services:
+- Custom Web and Mobile App Development
+- Cloud Migration (AWS, Azure, Google Cloud)
+- ERP Implementation and Support
+- AI/ML Consulting
+
+Support Plans:
+- Standard: Email support, response within 24 hours (included).
+- Premium: 24x7 phone and email support, response within 2 hours - INR 10,000/month.
+
+Sales Contact: sales@dsnktech.example.com | +91-80-1234-5679
